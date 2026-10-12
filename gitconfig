@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gaowei0518@gmail.com
+	name = wei gao
